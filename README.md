@@ -10,4 +10,3 @@ It will showcase my projects, skills, and experience as a **Web & Mobile Enginee
 
 ## 📅 Status
 🔨 Work in progress — I’ll be building and updating this portfolio step by step with Next.js (TypeScript).
-
